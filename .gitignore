@@ -1,0 +1,34 @@
+# Бинарные файлы
+*.so
+*.dll
+*.dylib
+*.a
+*.o
+*.obj
+
+# Компилированные файлы Pawn
+*.amx
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Логи
+*.log
+
+# Папки сборки
+build/
+dist/
+output/
+
